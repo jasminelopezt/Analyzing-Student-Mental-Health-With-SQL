@@ -2,7 +2,7 @@
 
 In this live code-along with DataCamp, I performed exploratory data analysis on a dataset around mental health of domestic and international students. 
 I performed SQL querying to look at how social connectedness and cultural issues affect mental health.
-Finally, I visualizedthe results of your analysis using the Python Plotly package.
+Finally, I visualized the results of my analysis using the Python Plotly package.
 
 ## The Data
 
