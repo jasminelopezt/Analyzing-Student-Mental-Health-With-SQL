@@ -18,4 +18,4 @@ Acculturative stress: stress associated with learning about and intergrating int
 
 [Link to the data.](https://www.mdpi.com/2306-5729/4/3/124/s1)
 
-[DataCamp Link To My Project]([https://app.datacamp.com/workspace/w/850f1494-e076-45b4-86bc-d38d9e0a0f78/edit](https://app.datacamp.com/workspace/w/850f1494-e076-45b4-86bc-d38d9e0a0f78))
+[DataCamp Link To My Project]([https://app.datacamp.com/workspace/w/850f1494-e076-45b4-86bc-d38d9e0a0f78/edit](https://app.datacamp.com/workspace/w/850f1494-e076-45b4-86bc-d38d9e0a0f78)
